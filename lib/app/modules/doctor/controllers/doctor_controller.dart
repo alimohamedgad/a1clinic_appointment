@@ -74,7 +74,7 @@ class DoctorController extends GetxController {
   }
   Future addToFavorite() async {
     try {
-      Favorite _favorite = new Favorite(
+      Favorite _favorite = new Favorite(    
         doctor: this.doctor.value,
         userId: Get.find<AuthService>().user.value.id,
       );
