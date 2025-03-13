@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">362192505918</string>
+    <string name="google_api_key" translatable="false">AIzaSyDJa7JtCAT7DHU0QuIVcJoNNFJ9MQbQOm0</string>
+    <string name="google_app_id" translatable="false">1:362192505918:android:3fc58fd4a166a5a382156f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDJa7JtCAT7DHU0QuIVcJoNNFJ9MQbQOm0</string>
+    <string name="google_storage_bucket" translatable="false">a1clinic-appointment.firebasestorage.app</string>
+    <string name="project_id" translatable="false">a1clinic-appointment</string>
+</resources>

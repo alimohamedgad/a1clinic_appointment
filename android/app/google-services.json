@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "362192505918",
+    "project_id": "a1clinic-appointment",
+    "storage_bucket": "a1clinic-appointment.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362192505918:android:3fc58fd4a166a5a382156f",
+        "android_client_info": {
+          "package_name": "com.a1clinic.appointment.ahmed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJa7JtCAT7DHU0QuIVcJoNNFJ9MQbQOm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
